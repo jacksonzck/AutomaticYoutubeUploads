@@ -13,3 +13,9 @@ I have a very ~~uninspired~~ standard naming scheme where I name each video -Nam
 Twitch videos sent to youtube are private by default. I have some videos on my channel that are marked private that I do not want ever to be uploaded. The bot should maintain that. 
 
 Todo: Think of more particulars. 
+
+## Useful Links:
+https://developers.google.com/youtube/v3/docs/videos/update
+https://github.com/googleapis/google-api-python-client/blob/main/docs/start.md
+
+
